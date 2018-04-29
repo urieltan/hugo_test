@@ -1,4 +1,4 @@
 baseURL = "http://urieltan.com/"
 languageCode = "en-us"
 title = "Uriel's new blog"
-theme = "gohugo-theme-ananke"
+theme = "ananke"

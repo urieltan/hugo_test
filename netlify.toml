@@ -29,3 +29,4 @@ HUGO_VERSION = "0.40.1"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+theme = "ananke"
