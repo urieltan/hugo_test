@@ -1,4 +1,4 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Uriel's new blog"
 theme = "ananke"
+title = "Uriel's new blog"
